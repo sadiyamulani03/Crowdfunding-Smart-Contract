@@ -4,7 +4,7 @@ This is my first Web3 project built using Solidity,It is a simple crowdfunding s
 
 ## &#x20;
 
-## 🚀 Features
+## 🚀 Features:
 
 * Users can contribute ETH to a campaign
 * Tracks total funds raised
